@@ -1,6 +1,16 @@
 # Яманко ДИ. Практика
 
-### Запуск(должны быть свободны порты 8080 и 3000)
+## Project setup
 ```
-docker-compose up --build
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
 ```
